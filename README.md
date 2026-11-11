@@ -1,3 +1,9 @@
+# springvaadin
+
+Spring Boot and Vaadin 13 application with work-time, leave-request, persistence, and security components. Maven targets Java 8 and includes MySQL dependencies. Review application configuration and prepare the database before running. The original starter documentation below is retained; its setup instructions have not been revalidated.
+
+## Original documentation
+
 # Project Base for Vaadin Flow and Spring Boot
 
 This project can be used as a starting point to create your own Vaadin Flow application with Spring Boot.
